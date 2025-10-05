@@ -1,0 +1,4 @@
+# No external dependencies required
+
+
+If you want you can use pillow to make it more efficient
